@@ -7,5 +7,5 @@ export const globalOptions = {
 }
 
 export const modulesOptions = {
-  "@modules/app-menu": { title: "App Menu", copy: "Rx 1!", styles: styles }
+  "@modules/app-menu": { title: "App Menu", copy: "Rx sss!", styles: styles }
 }
